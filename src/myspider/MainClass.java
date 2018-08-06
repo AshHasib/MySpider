@@ -88,7 +88,7 @@ public class MainClass {
             writeToFile(links, imgSources);
         }
         else {
-            System.out.println("Terminating Program. Happy crawling . . . . .");
+            System.out.println("Terminating Program. Happy crawling and happy coding. . . . .");
         }
     }
 
